@@ -47,7 +47,7 @@
   
 ### INSTRUCCIONES
 una vez instalado aircrack-ng en termux
-simplemente escriben el comando aircrack-ng y enter listo.
+simplemente escriben el comando aircrack-ng enter y listo.
 
 ## CONECTATE CON NOSOTROS:
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/venom.24.tr)
