@@ -42,8 +42,8 @@
 * ``apt install git -y``
 * ``git clone https://github.com/venom-24/aircrack-ng_termux.git``
 * ``cd aircrack-ng_termux;ls``
-* ``chmod +x aircrack-ng_termux;ls``
-* ``bash aircrack-ng_termux``
+* ``chmod +x aircrack-ng_tmx.sh;ls``
+* ``bash aircrack-ng_tmx.sh``
   
 ### INSTRUCCIONES
 una vez instalado aircrack-ng en termux
