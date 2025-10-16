@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <img title="Hecho en mexico" src="https://img.shields.io/badge/Code-Aircrack--ng-blue.svg">
-<img title="Hecho en mexico2" src="https://img.shields.io/badge/Version-6.4.28-blue.svg">
+<img title="Hecho en mexico2" src="https://img.shields.io/badge/Version-1.7-blue.svg">
 <img title="Hecho en mexico3" src="https://img.shields.io/badge/Escrito En-Bash-blue.svg">
 </p>
 
